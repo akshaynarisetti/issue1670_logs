@@ -1,0 +1,22 @@
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.390287907Z"}
+{"log":"Hello from Docker!\n","stream":"stdout","time":"2022-04-26T17:39:42.390321701Z"}
+{"log":"This message shows that your installation appears to be working correctly.\n","stream":"stdout","time":"2022-04-26T17:39:42.390328908Z"}
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.390332255Z"}
+{"log":"To generate this message, Docker took the following steps:\n","stream":"stdout","time":"2022-04-26T17:39:42.390335103Z"}
+{"log":" 1. The Docker client contacted the Docker daemon.\n","stream":"stdout","time":"2022-04-26T17:39:42.390337915Z"}
+{"log":" 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.\n","stream":"stdout","time":"2022-04-26T17:39:42.390341141Z"}
+{"log":"    (amd64)\n","stream":"stdout","time":"2022-04-26T17:39:42.390344352Z"}
+{"log":" 3. The Docker daemon created a new container from that image which runs the\n","stream":"stdout","time":"2022-04-26T17:39:42.390347088Z"}
+{"log":"    executable that produces the output you are currently reading.\n","stream":"stdout","time":"2022-04-26T17:39:42.390349927Z"}
+{"log":" 4. The Docker daemon streamed that output to the Docker client, which sent it\n","stream":"stdout","time":"2022-04-26T17:39:42.39035276Z"}
+{"log":"    to your terminal.\n","stream":"stdout","time":"2022-04-26T17:39:42.390355667Z"}
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.390358394Z"}
+{"log":"To try something more ambitious, you can run an Ubuntu container with:\n","stream":"stdout","time":"2022-04-26T17:39:42.390361061Z"}
+{"log":" $ docker run -it ubuntu bash\n","stream":"stdout","time":"2022-04-26T17:39:42.390363896Z"}
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.390366638Z"}
+{"log":"Share images, automate workflows, and more with a free Docker ID:\n","stream":"stdout","time":"2022-04-26T17:39:42.39036926Z"}
+{"log":" https://hub.docker.com/\n","stream":"stdout","time":"2022-04-26T17:39:42.390372038Z"}
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.390374758Z"}
+{"log":"For more examples and ideas, visit:\n","stream":"stdout","time":"2022-04-26T17:39:42.390377399Z"}
+{"log":" https://docs.docker.com/get-started/\n","stream":"stdout","time":"2022-04-26T17:39:42.390380164Z"}
+{"log":"\n","stream":"stdout","time":"2022-04-26T17:39:42.3903829Z"}
